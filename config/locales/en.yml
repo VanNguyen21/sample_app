@@ -40,6 +40,8 @@ en:
       title : About
     contact:
       title : Contact
+      desc : This is the sample application for the tutorial.
+      screencasts : to teach web development with
     help:
       title : Help
 
