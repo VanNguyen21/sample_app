@@ -35,13 +35,21 @@ en:
   tutorial: Ruby on Rails Tutorial
   ror: Ruby on Rails
   rails: Rails Tutorial
+  desc_sample :  This is the sample application for the tutorial.
+  book : book
+  series : screencast series
   static_pages:
     about:
       title : About
+      desc : to teach web development with
     contact:
       title : Contact
-      desc : This is the sample application for the tutorial.
       screencasts : to teach web development with
     help:
       title : Help
+      to_help :  To get help on this sample app, see the
+      het_help : Get help on the
+    home:
+      desc : This is the home page for the
+
 
