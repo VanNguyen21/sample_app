@@ -31,25 +31,39 @@
 
 en:
   base_title: Ruby on Rails Tutorial Sample App
-  sample: Sample App
+  sample: Sample Application
+  sample_app : sample app
   tutorial: Ruby on Rails Tutorial
   ror: Ruby on Rails
   rails: Rails Tutorial
   desc_sample :  This is the sample application for the tutorial.
   book : book
+  name : Michael Hartl
   series : screencast series
+  home : Home
+  help : Help
+  login : Log In
+  about : About
+  contact : Contact
+  sign_up : Sign up now!
+  users :
+    new :
+      title : Sign Up
+      desc : This will be a signup page for new users.
   static_pages:
     about:
       title : About
       desc : to teach web development with
     contact:
       title : Contact
-      screencasts : to teach web development with
+      desc : Contact the Ruby on Rails Tutorial about the sample app at the
+      page : Contact Page
     help:
       title : Help
       to_help :  To get help on this sample app, see the
       het_help : Get help on the
     home:
       desc : This is the home page for the
+      welcome : Welcome to the Sample App
 
 
