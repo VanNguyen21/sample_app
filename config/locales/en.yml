@@ -32,17 +32,20 @@
 en:
   base_title: Ruby on Rails Tutorial Sample App
   sample: Sample Application
+  sample_app : sample app
   tutorial: Ruby on Rails Tutorial
   ror: Ruby on Rails
   rails: Rails Tutorial
   desc_sample :  This is the sample application for the tutorial.
   book : book
+  name : Michael Hartl
   series : screencast series
   home : Home
   help : Help
   login : Log In
   about : About
   contact : Contact
+  sign_up : Sign up now!
   users :
     new :
       title : Sign Up
