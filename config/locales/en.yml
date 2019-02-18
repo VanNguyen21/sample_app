@@ -39,6 +39,7 @@ en:
   desc_sample :  This is the sample application for the tutorial.
   book : book
   name : Michael Hartl
+  name_link : http://www.michaelhartl.com/
   series : screencast series
   home : Home
   help : Help
@@ -46,6 +47,8 @@ en:
   about : About
   contact : Contact
   sign_up : Sign up now!
+  tutorial_link : https://www.railstutorial.org/
+  new_tutorial_link : http://news.railstutorial.org/
   users :
     new :
       title : Sign Up
