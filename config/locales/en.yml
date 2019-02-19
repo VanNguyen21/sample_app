@@ -30,6 +30,7 @@
 # available at http://guides.rubyonrails.org/i18n.html.
 
 en:
+  welcome : "Welcome to the Sample App!"
   base_title: Ruby on Rails Tutorial Sample App
   sample: Sample Application
   sample_app : sample app
@@ -53,6 +54,8 @@ en:
     new :
       title : Sign Up
       desc : This will be a signup page for new users.
+      create_button : Create my account
+      confirm_label : Confirmation
   static_pages:
     about:
       title : About
@@ -68,5 +71,6 @@ en:
     home:
       desc : This is the home page for the
       welcome : Welcome to the Sample App
-
-
+  shared:
+    _error_messages :
+      form: The form contains
