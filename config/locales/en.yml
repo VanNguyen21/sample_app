@@ -30,7 +30,7 @@
 # available at http://guides.rubyonrails.org/i18n.html.
 
 en:
-  welcome : "Welcome to the Sample App!"
+  welcome : Welcome to the Sample App!
   base_title: Ruby on Rails Tutorial Sample App
   sample: Sample Application
   sample_app : sample app
@@ -83,3 +83,4 @@ en:
   sessions :
     new :
       new_user : New user?
+
