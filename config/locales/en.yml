@@ -30,14 +30,14 @@
 # available at http://guides.rubyonrails.org/i18n.html.
 
 en:
-  welcome : "Welcome to the Sample App!"
+  welcome : Welcome to the Sample App!
   base_title: Ruby on Rails Tutorial Sample App
   sample: Sample Application
   sample_app : sample app
   tutorial: Ruby on Rails Tutorial
   ror: Ruby on Rails
   rails: Rails Tutorial
-  desc_sample :  This is the sample application for the tutorial.
+  desc_sample : This is the sample application for the tutorial.
   book : book
   name : Michael Hartl
   name_link : http://www.michaelhartl.com/
@@ -45,9 +45,15 @@ en:
   home : Home
   help : Help
   login : Log In
+  logout : Log Out
+  profile : Profile
+  setting : Settings
   about : About
+  account : Account
   contact : Contact
+  user : Users
   sign_up : Sign up now!
+  invalid : Invalid email/password combination
   tutorial_link : https://www.railstutorial.org/
   new_tutorial_link : http://news.railstutorial.org/
   users :
@@ -74,3 +80,8 @@ en:
   shared:
     _error_messages :
       form: The form contains
+  sessions :
+    new :
+      new_user : New user?
+      remember_me : Remember me on this computer
+
