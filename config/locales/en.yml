@@ -30,6 +30,8 @@
 # available at http://guides.rubyonrails.org/i18n.html.
 
 en:
+  deleted : User deleted
+  you_sure : You sure?
   welcome : Welcome to the Sample App!
   base_title: Ruby on Rails Tutorial Sample App
   sample: Sample Application
@@ -56,12 +58,28 @@ en:
   invalid : Invalid email/password combination
   tutorial_link : https://www.railstutorial.org/
   new_tutorial_link : http://news.railstutorial.org/
+  profile_update : Profile updated
+  please_login : Please log in.
+  account_active : Account activation
+  account_activated: Account activated!
+  account_not_activated: Account not activated.
+  invalid_active: Invalid activation link
+  pls_check_mail : Please check your email to activate your account.
+  check_active: Check your email for the activation link.
+
   users :
     new :
       title : Sign Up
       desc : This will be a signup page for new users.
-      create_button : Create my account
+      button : Create my account
       confirm_label : Confirmation
+    edit :
+      title : Update your profile
+      button : Save changes
+      change : change
+      base_title : Edit User
+    index :
+      title : All users
   static_pages:
     about:
       title : About
@@ -84,4 +102,7 @@ en:
     new :
       new_user : New user?
       remember_me : Remember me on this computer
-
+  user_mailer :
+    account_activation :
+      welcome : Welcome to the Sample App! Click on the link below to activate your account
+      active : Activate
